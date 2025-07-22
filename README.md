@@ -1,2 +1,2 @@
-# bravetiger.lab.github.io
+# btlab.github.io
 BraveTiger Lab Website
